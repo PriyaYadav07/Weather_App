@@ -1,4 +1,4 @@
-# Weather_App
+# Weather App
 <br>
 Building a Weather app with JavaScript is a brilliant project for beginners. It helps students understand the core basics of the DOM and teaches how to use fetch API.<br>
 
